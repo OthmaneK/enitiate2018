@@ -1,0 +1,48 @@
+*{
+	
+font-family: 'cairo', sans-serif; background-color: black;
+}
+
+h1{
+	font-size: 250%; font-family: 'Cairo'; text-align: center
+}
+
+p{
+	font-size: 16px; line-height: 70px; background-color: orange
+}
+
+h3{
+	font-size: 225%; 
+	background-color: blue; 
+	lighting-color: white; 
+	color: white;
+	text-transform: uppercase ;
+}
+
+.eco{ 
+	color: orange;
+}
+
+p{
+font-family: 'Cairo', cursive;*
+}
+
+h1:hover{
+	color:yellow;
+}
+
+ul:hover{
+color: white;
+}
+li{
+	background-color: brown; 
+}
+ol:hover{
+	color: white ;
+}
+a{
+	color: white; border-color: orange;
+}
+.poop{
+	background-color: white;
+}
