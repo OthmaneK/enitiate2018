@@ -1,0 +1,149 @@
+* {
+	margin: 0;
+}
+html{
+	text-align: center;
+
+}
+h2{
+	font-family: 'Montserrat', sans-serif;
+}
+h1{	
+	
+	font-size: 60px;
+	font-family: 'Raleway', sans-serif;
+	border-color: solid black;
+	color: white;
+	margin-top: 0px;
+
+}
+
+.download{
+	font-size: 50px;
+	color: white;
+	text-decoration: none;
+	font-family: 'Oswald', sans-serif;
+	text-transform: uppercase;
+}
+
+h1:hover{
+	color: white;
+	-webkit-text-stroke: 1px rgb(204, 58, 52, 47);
+}
+
+.title {
+	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(garbage.png);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-bottom: 400px;
+	margin-top: 0px;
+
+}
+body{
+}
+.poopy{
+	border: 1px solid black;
+	background-color: white;
+
+}
+img{
+	height: 30%;
+    width: 30%;
+    padding-right: 40px;
+    padding-bottom: 30px;
+    transition: all 0.6s ease-in-out;
+}
+img:hover{
+	filter: grayscale(100%);
+	transform: translateY(-5%);
+	   transform: scale(1.02568); 
+}
+p{
+	color: black;
+	font-family: 'Montserrat', sans-serif;
+	margin-left: 13%;
+}
+
+h3{
+	color: brown;
+	opacity: 5000;
+	font-size: 30px;
+	font-family: 'Homemade Apple', cursive;
+}
+h3:hover{
+	color: #0B173B;
+}
+ul {
+	width: 200px;
+    height: 150px;
+    overflow-y: auto;
+	overflow-y: auto;
+    margin: 0px;
+    list-style-type: none;
+    margin: 0;
+    padding-: 0;
+    overflow: hidden;
+    background-color: white;
+    font-family: 'Raleway', sans-serif;
+        position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+}
+li{
+    float: right;
+}
+
+li a {
+	font-size: 10px;
+    display: block;
+    color:#4000FF;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+}
+li a:hover{
+	color: #F2F5A9 ;
+	background-color: #31B404 ;
+}
+
+h1{
+	margin: 5%;
+	padding: 5%;
+	margin-top: 0px;
+	font-family: 'Knewave', cursive;
+}
+
+.mid{
+	font-size: 55px;
+	font-family: 'Oswald', sans-serif;
+	color: #755553;
+	padding-bottom: 10px;
+}
+.mid:hover{
+	color: white;
+	transform: scale(1.2); 
+	-webkit-text-stroke: 1px #755553;
+
+}
+
+.hmed{
+	border: 1px solid black;
+	margin-right: 600px;
+	margin-left: 600px;
+}
+.popo{
+	font-size: 100px;
+	font-family: 'Permanent Marker', cursive;
+	border-color: white;
+	color: #473534;
+	margin-top: 0px;
+	-webkit-text-stroke: 1px white;
+
+
+}
+.popo:hover{
+	color: #473534;
+	transform: scale(1.2); 
+	-webkit-text-stroke: 1px white;
+}
